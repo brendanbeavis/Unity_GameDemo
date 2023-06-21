@@ -1,0 +1,10 @@
+music, Space Elevator by vitalezzz, https://opengameart.org/users/vitalezzz
+sfx, pew Laser fire Sound by sketcherskt, https://opengameart.org/content/pew-laser-fire-sound
+
+gfx zombies, FreeArt - Topdown Zombies by SpriteAttack, https://opengameart.org/content/freeart-topdown-zombies
+
+
+gfx,Crosshair Pack by kenny, https://kenney.nl/assets/crosshair-pack
+gfx,Top-down Tanks Redux by kenny, https://kenney.nl/assets/topdown-tanks-redux
+
+2dgfx, varios by Robert Brooks , GameDeveloperStudio.com

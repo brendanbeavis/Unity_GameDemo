@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dude
+  - Enemy
+  - Token
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Background
+  - Objects
+  - Tokens
+  - Weapons
+  - Dude
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3622959331
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tokens
+    uniqueID: 3576574767
+    locked: 0
+  - name: Weapons
+    uniqueID: 1148019227
+    locked: 0
+  - name: Enemies
+    uniqueID: 775007343
+    locked: 0
+  - name: Dude
+    uniqueID: 1483744581
+    locked: 0
